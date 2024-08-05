@@ -77,7 +77,7 @@
 
 ###
 <div align="center">
-  <a href="www.youtube.com/@Erik-tb4ps" target="_blank">
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
   <a href="mailto:erik.richter@edu.techsterter.de">
